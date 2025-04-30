@@ -1,6 +1,6 @@
 # İznim Dışımda Paylaşımı Yasaktır
 
-## Discord:hasdev
+## Discord:oxyinc
 
 ### [discord.gg/vsc](https://www.discord.gg/vsc)
 
